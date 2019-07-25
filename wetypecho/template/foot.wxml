@@ -1,0 +1,8 @@
+<template name="foot">
+    <view class="footerview">  
+    <text >@2019 小宁博客</text>
+    </view>
+    <view class="footerviewwebsite">  
+    <text style>www.sunxiaoning.com</text>
+    </view>
+</template>
